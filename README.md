@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilbaratam/summer-pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhilbaratam/summer-pep/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhilbaratam/summer-pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilbaratam/summer-pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhilbaratam/summer-pep/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhilbaratam/summer-pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
