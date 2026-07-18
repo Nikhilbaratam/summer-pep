@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nikhilbaratam/summer-pep/tree/master/0199-binary-tree-right-side-view) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nikhilbaratam/summer-pep/tree/master/0199-binary-tree-right-side-view) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nikhilbaratam/summer-pep/tree/master/0199-binary-tree-right-side-view) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nikhilbaratam/summer-pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
