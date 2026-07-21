@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nikhilbaratam/summer-pep/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilbaratam/summer-pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nikhilbaratam/summer-pep/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nikhilbaratam/summer-pep/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Nikhilbaratam/summer-pep/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
