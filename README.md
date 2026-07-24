@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nikhilbaratam/summer-pep/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nikhilbaratam/summer-pep/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/Nikhilbaratam/summer-pep/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Nikhilbaratam/summer-pep/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilbaratam/summer-pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/Nikhilbaratam/summer-pep/tree/master/0455-assign-cookies) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nikhilbaratam/summer-pep/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/Nikhilbaratam/summer-pep/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
