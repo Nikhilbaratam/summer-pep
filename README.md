@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nikhilbaratam/summer-pep/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Nikhilbaratam/summer-pep/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Nikhilbaratam/summer-pep/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -151,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhilbaratam/summer-pep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilbaratam/summer-pep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilbaratam/summer-pep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
