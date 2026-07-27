@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhilbaratam/summer-pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nikhilbaratam/summer-pep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Nikhilbaratam/summer-pep/tree/master/1539-kth-missing-positive-number) |
+| [3693-climbing-stairs-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Nikhilbaratam/summer-pep/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3693-climbing-stairs-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
