@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Nikhilbaratam/summer-pep/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Nikhilbaratam/summer-pep/tree/master/0130-surrounded-regions) |
+| [0140-word-break-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilbaratam/summer-pep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Nikhilbaratam/summer-pep/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhilbaratam/summer-pep/tree/master/0300-longest-increasing-subsequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0140-word-break-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhilbaratam/summer-pep/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Nikhilbaratam/summer-pep/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbaratam/summer-pep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Nikhilbaratam/summer-pep/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhilbaratam/summer-pep/tree/master/0300-longest-increasing-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nikhilbaratam/summer-pep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -167,4 +170,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhilbaratam/summer-pep/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0140-word-break-ii) |
+## String
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0140-word-break-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Nikhilbaratam/summer-pep/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
